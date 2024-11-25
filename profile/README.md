@@ -1,5 +1,5 @@
 
-## Soul Wallet
+## Elytro
 
 We build Smart Contract Wallet for Ethereum.
 
